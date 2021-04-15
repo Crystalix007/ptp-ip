@@ -15,4 +15,4 @@ repos:
       - id: clang-format
         files: ^src/
       - id: clang-tidy
-        files: ^src/
+        files: ^src/.*\.cpp

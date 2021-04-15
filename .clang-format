@@ -18,7 +18,7 @@ NamespaceIndentation: All
 PointerAlignment: Left
 SortIncludes: true
 SortUsingDeclarations: true
-Standard: Cpp11
+Standard: c++20
 TabWidth: 2
 UseTab: ForIndentation
 
